@@ -399,7 +399,7 @@ export default {
   head() {
     return {
       title: this.$t('site.title') + '🌟🐧',
-      link: [{ rel: 'canonical', href: 'https://hosimiyas.io' }]
+      link: [{ rel: 'canonical', href: 'https://btn.hosimiyasio' }]
     };
   }
 };

@@ -1,7 +1,7 @@
 # 汐按钮 / SIO-BUTTON
 
 
-项目地址： https://hosimiyas.io/
+项目地址： https://btn.hosimiyasio.com/
 
 相关链接:
 
